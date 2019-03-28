@@ -13,3 +13,4 @@ tips and/help is alwais welcome, but keep in mind its a project for me to learn 
 updats will be posted here to. 
 Thank you for reading, have a nice day
 ----------------------------------------------
+https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
